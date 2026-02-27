@@ -1334,3 +1334,4 @@ SOFTWARE.
 <p align="center">
   Made with ❤️ using Flask
 </p>
+Assignment-1: Student REST API verified and CI enabled
