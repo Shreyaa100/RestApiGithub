@@ -1,0 +1,9 @@
+[
+  {
+    "id": "sal-001",
+    "employee_id": "emp-001",
+    "basic_salary": 50000,
+    "bonus": 5000,
+    "allowances": 3000
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "emp-001",
+    "first_name": "John",
+    "last_name": "Doe",
+    "gender": "Male",
+    "date_of_birth": "1995-06-15",
+    "department_id": "dept-001"
+  }
+]
